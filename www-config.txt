@@ -1,0 +1,5 @@
+KEY=a21h-qtfa-s23v-7y0e
+LOOP=20
+W=500
+H=500
+BIT=1600k

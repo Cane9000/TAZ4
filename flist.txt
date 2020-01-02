@@ -1,0 +1,4 @@
+file '/media/pi/Cane9000/video/E2.mp4'
+file '/media/pi/Cane9000/video/E3.mp4'
+file '/media/pi/Cane9000/video/E1.mp4'
+file '/media/pi/Cane9000/video/E4.mp4'
